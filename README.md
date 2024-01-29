@@ -1,0 +1,2 @@
+# ic-docs
+InfiniteClouds Documentation
