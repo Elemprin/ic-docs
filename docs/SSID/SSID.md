@@ -72,7 +72,24 @@ SSID is necessary for several reasons:
 5. After Clicking the Save button, you will get a message on the screen that **Device Configuration is updated successfully**.
 
    ![image-18](./images/image-18.png)
-   
+
+## How to disconnect SSID  
+1. Go to the **Radio configuration** and after there go to **Select SSID**.
+
+   ![image-16](./images/image-16.png)
+
+2. Then click on **delete** on the **SSID** you want to disconnect. 
+
+   ![image-19](./images/image-19.png)
+
+3. And then click the **Save** button.
+
+   ![image-20](./images/image-20.png)
+
+4. After Clicking the **Save** button, you will get a message on the screen that **Device Configuration is updated successfully**.
+
+   ![image-21](./images/image-21.png)
+     
 ## How to edit SSID
 
 1. Go to the **SSID** want to edit.
