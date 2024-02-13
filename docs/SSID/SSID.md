@@ -89,7 +89,7 @@ SSID is necessary for several reasons:
 4. After Clicking the **Save** button, you will get a message on the screen that **Device Configuration is updated successfully**.
 
    ![image-21](./images/image-21.png)
-     
+
 ## How to edit SSID
 
 1. Go to the **SSID** want to edit.
