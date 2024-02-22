@@ -57,20 +57,20 @@ Organization is the basic structure for effective management and coordination in
 2. Click on the **Edit** located on the right side of your organization.
 ![image-17](./images/image-17.png)
 
-1. After clicking, a new window will open.
+3. After clicking, a new window will open.
 ![image-18](./images/image-18.PNG)
 
-1. From here you can change **Profile Photo, Organization Name, Address, Status, Email, Contact, and Your Work**.
+4. From here you can change **Profile Photo, Organization Name, Address, Status, Email, Contact, and Your Work**.
 ![image-19](./images/image-19.png)
 
-1. Located on the right, the **Organization Log** shows the changes made to the organization.
+5. Located on the right, the **Organization Log** shows the changes made to the organization.
 ![image-20](./images/image-20.png)
 
-1. Then click on the **Update Profile** button.
+6. Then click on the **Update Profile** button.
 ![image-21](./images/image-21.png)
 
 
-1. After Clicking the **Update Profile** button, you will get a message on the screen that the **Organization update successfully**.
+7. After Clicking the **Update Profile** button, you will get a message on the screen that the **Organization update successfully**.
 ![image-22](./images/image-22.png)
 
 ### How to delete Organization
