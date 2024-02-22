@@ -56,7 +56,7 @@ Bandwidth limits are crucial to effectively manage Internet speeds, ensure fair 
 
 4. After Clicking the **Update** button, you will get a message on the screen that **SSID details are updated successfully**.
 
-   ![image-18](https://github.com/Nancypatel1103/ComplianceClient/assets/153616269/d9e7c43f-5469-4632-9ecf-94a8fc2fc4a3)
+   ![image-18](./Images/image-18.png)
 
 ## How to edit Bandwidth Profile
 1. Go to an **Access Point** and click on **Bandwidth Profile** in it. 
