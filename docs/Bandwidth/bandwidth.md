@@ -79,6 +79,7 @@ Bandwidth limits are crucial to effectively manage Internet speeds, ensure fair 
 6. After Clicking the **Update** button, you will get a message on the screen that **Bandwidth profile is updated successfully**.
 
    ![image-11](./Images/image-11.png)
+
 ## How to delete Bandwidth Profile
 1. Click on the **delete** located on the right side.
 
